@@ -1,16 +1,17 @@
 ## Hi there 👋
+ I am Dinesh G,
 
-<!--
-**Kkssys/Kkssys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate Web Developer focused on creating modern, responsive, and user-friendly web applications.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on frontend web projects
+🌱 I’m currently learning advanced React.js and backend integration
+👯 I’m looking to collaborate on web development projects
+💬 Ask me about HTML, CSS, JavaScript, and React.js
+📫 How to reach me: dineshgovindaraj212@example.com
+⚡ Fun fact:
+        Started coding for fun, now it is my stressbuster 🔍
+        I enjoy turning ideas into interactive websites
+        Coffee + coding = perfect combo ☕
+        Dark mode always looks better to me 😄
+        I fix one bug just to create another 😅
+        
