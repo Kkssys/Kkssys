@@ -10,8 +10,9 @@
 📫 How to reach me: dineshgovindaraj212@example.com
 ____________________________________________________________________________________________________________________________________________________________________
 ⚡ Fun fact:
-        Started coding for fun, now it is my stressbuster 🔍
-        I enjoy turning ideas into interactive websites
-        Coffee + coding = perfect combo ☕
-        Dark mode always looks better to me 😄
-        I fix one bug just to create another 😅
+       -  Started coding for fun, now it is my stressbuster 🔍
+       -  I enjoy turning ideas into interactive websites
+       -  Coffee + coding = perfect combo ☕
+       -  Dark mode always looks better to me 😄
+       -  I fix one bug just to create another 😅
+```
