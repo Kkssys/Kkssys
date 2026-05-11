@@ -15,7 +15,7 @@ ________________________________________________________________________________
 ⚡ Fun fact: <br>
        • Started coding for fun, now it is my stressbuster 🔍 .<br>
        • I enjoy turning ideas into interactive websites . <br>
-       • Coffee + coding = perfect combo ☕ .<br>
+       • Tea + coding = perfect combo ☕ .<br>
        • Dark mode always looks better to me 😄 .<br>
        • I fix one bug just to create another 😅 .<br>
 ____________________________________________________________________________________________________________________________________________________________________
