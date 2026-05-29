@@ -4,7 +4,6 @@
 💻 Passionate Web Developer focused on creating modern, responsive, and user-friendly web applications. <br>
 🔭 I’m currently working on frontend web projects .<br>
 📫 How to reach me: <br>
-                    • dineshgovindaraj212@example.com .<br>
                     • [dineshgovindaraj.vercel.app](https://dineshgovindaraj.vercel.app/)<br>
 ____________________________________________________________________________________________________________________________________________________________________
 ## 🛠️ Tools & Technologies <br>
