@@ -18,7 +18,8 @@
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb)](https://skillicons.dev)<br>
 <h3>Tools :<br></h3>
 [![My Skills](https://skillicons.dev/icons?i=git,github,netlify,vercel,vscode,vite,)](https://skillicons.dev)<br>
-</hr>
+
+<hr/>
 
 <!-- Social Badges (Portfolio, LinkedIn, Email, Resume) - ALL same width/height -->
 <h2 align="center">🔗 Socials</h2>
