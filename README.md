@@ -12,7 +12,15 @@ ________________________________________________________________________________
  • Frontend - HTML5 , CSS3 , JavaScript , React.js .<br>
  • Database - MySQL , MongoDB .<br>
  • Tools    - VS code , Github , Git , Vercel , Netlify , Render etc ... .<br>
-____________________________________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________________________________
+💻 Tech Stack:<br>
+Frontend : <br>
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,bootstrap)](https://skillicons.dev)<br>
+Backend & Database: <br>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb)](https://skillicons.dev)<br>
+Tools :<br>
+[![My Skills](https://skillicons.dev/icons?i=git,github,netlify,vercel,vscode,vite,)](https://skillicons.dev)<br>
+___________________________________________________________________________________________________________________________________________________________________
 ⚡ Fun fact: <br>
        • Started coding for fun, now it is my stressbuster 🔍 .<br>
        • I enjoy turning ideas into interactive websites . <br>
@@ -23,6 +31,4 @@ ________________________________________________________________________________
 🌐 Socials:<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dinesh-g-388174259) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dineshgovindaraj212@gmail.com) <br>
 ___________________________________________________________________________________________________________________________________________________________________
-💻 Tech Stack:<br>
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-___________________________________________________________________________________________________________________________________________________________________
+
