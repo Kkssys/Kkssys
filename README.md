@@ -43,7 +43,6 @@ Tools :<br>
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kkssys&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kkssys&theme=radical" width="48%" />
 </p>
 
@@ -51,12 +50,7 @@ Tools :<br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kkssys&layout=compact&theme=radical" width="50%" />
 </p>
 
-<!-- Achievements (as shown in the screenshot) -->
-<h2 align="center">🏆 Achievements</h2>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kkssys&theme=radical&no-frame=true&row=1&column=6" />
-</p>
 <hr/>
 ⚡ Fun fact: <br>
        • Started coding for fun, now it is my stressbuster 🔍 .<br>
