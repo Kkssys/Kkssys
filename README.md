@@ -11,13 +11,29 @@
 
 <hr/>
 
-<h2 align="center">🧑‍💻 Techs :</h2>
-<h3>Frontend : </h3><br>
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,bootstrap)](https://skillicons.dev)<br>
-<h3>Backend & Database: </h3><br>
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb)](https://skillicons.dev)<br>
-<h3>Tools :</h3><br>
-[![My Skills](https://skillicons.dev/icons?i=git,github,netlify,vercel,vscode,vite,)](https://skillicons.dev)<br>
+<!-- DIVIDER -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
+</p>
+
+<h2 align="center">🧑‍💻 Tech Stack</h2>
+
+<p align="center">
+  <h3 align="center">🖥️ Frontend</h3>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" />
+  </p>
+
+  <h3 align="center">⚙️ Backend & Database</h3>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
+  </p>
+
+  <h3 align="center">🛠️ Tools</h3>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,netlify,vercel,vscode,vite" />
+  </p>
+</p>
 
 <hr/>
 
