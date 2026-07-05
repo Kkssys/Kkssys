@@ -75,13 +75,14 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-⚡ Fun fact: <br>
-       • Started coding for fun, now it is my stressbuster 🔍 .<br>
-       • I enjoy turning ideas into interactive websites . <br>
-       • Tea + coding = perfect combo ☕ .<br>
-       • Dark mode always looks better to me 😄 .<br>
-       • I fix one bug just to create another 😅 .<br>
-
+<h2 align="center">⚡ Fun facts:</h2>
+<p align="center">
+    • Started coding for fun, now it is my stressbuster 🔍 .<br>
+    • I enjoy turning ideas into interactive websites . <br>
+    • Tea + coding = perfect combo ☕ .<br>
+    • Dark mode always looks better to me 😄 .<br>
+    • I fix one bug just to create another 😅 .<br>
+</p>
 <!-- Footer Banner (waving footer to match the top) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
