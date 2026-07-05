@@ -8,7 +8,7 @@
 📫 How to reach me: <br>
                     • [dineshgovindaraj.vercel.app](https://dineshgovindaraj.vercel.app/)<br>
 <br>
-📄 Check out my [Resume]((https://raw.githubusercontent.com/Kkssys/Kkssys/main/assets/resume.pdf))
+📄 Check out my **[Resume](https://raw.githubusercontent.com/Kkssys/Kkssys/main/assets/resume.pdf)**
 
 ___________________________________________________________________________________________________________________________________________________________________
 💻 Tech Stack:<br>
