@@ -25,7 +25,16 @@ ________________________________________________________________________________
        • I fix one bug just to create another 😅 .<br>
 ___________________________________________________________________________________________________________________________________________________________________
 🌐 Socials:<br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dinesh-g-388174259) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dineshgovindaraj212@gmail.com) 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-943be7?style=for-the-badge&logo=link&logoColor=white)]([https://your-portfolio-link](https://dineshgovindaraj.vercel.app/))<br>
+<p align="center">
+  <a href="(https://dineshgovindaraj.vercel.app/)" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-943be7?style=for-the-badge&logo=link&logoColor=white" width="140" height="35" />
+  </a>
+  <a href="https://www.linkedin.com/in/dinesh-g-388174259" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="140" height="35" />
+  </a>
+  <a href="mailto:dineshgovindaraj212@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="140" height="35" />
+  </a>
+</p><br>
 ___________________________________________________________________________________________________________________________________________________________________
 
