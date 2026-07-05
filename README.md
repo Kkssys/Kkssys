@@ -12,11 +12,11 @@
 <hr/>
 
 <h2 align="center">🧑‍💻 Techs :</h2>
-<h3>Frontend : <br></h3>
+<h3>Frontend : </h3><br>
 [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,bootstrap)](https://skillicons.dev)<br>
-<h3>Backend & Database: <br></h3>
+<h3>Backend & Database: </h3><br>
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb)](https://skillicons.dev)<br>
-<h3>Tools :<br></h3>
+<h3>Tools :</h3><br>
 [![My Skills](https://skillicons.dev/icons?i=git,github,netlify,vercel,vscode,vite,)](https://skillicons.dev)<br>
 
 <hr/>
