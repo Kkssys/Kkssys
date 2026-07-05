@@ -1,8 +1,7 @@
 ## Hi there 👋
  I am Dinesh G,
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%2C+I+am+Dinesh+G;Web+Developer" alt="Typing SVG" /></a>
-<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Hi+%2C+I+am+Dinesh+G;Web+Developer" alt="Typing SVG" /></a>
 💻 Passionate Web Developer focused on creating modern, responsive, and user-friendly web applications. <br>
 🔭 I’m currently working on frontend web projects .<br>
 📫 How to reach me: <br>
