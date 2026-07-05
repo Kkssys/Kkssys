@@ -8,7 +8,7 @@
 📫 How to reach me: <br>
                     • [dineshgovindaraj.vercel.app](https://dineshgovindaraj.vercel.app/)<br>
 <br>
-📄 Check out my <a href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/PATH_TO_YOUR_RESUME/resume.pdf" target="_blank">
+📄 Check out my <a href="(https://github.com/Kkssys/Kkssys/blob/1e55309ecc99e22e5ebacca8879b174c94bd293d/assets/resume.pdf)" target="_blank">
    Resume
 </a>
 
