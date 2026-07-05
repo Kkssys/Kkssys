@@ -56,7 +56,7 @@
 </p>
 
 <!-- Details section (Like the "📍 Location | ✉️ Email | 🌐 Website" part in the screenshot) -->
-<h3 align="center">📍 TamilNadu,India · ✉️ <a href="mailto:dineshgovindaraj212@gmail.com?subject=Hello%20from%20GitHub">Email me</a> · 🌐 <a href="https://your-portfolio-link.com">Portfolio</a> · 🔗 <a href="https://www.linkedin.com/in/dinesh-g-388174259">LinkedIn</a> <br>
+<h3 align="center">📍 TamilNadu,India · ✉️ <a href="mailto:dineshgovindaraj212@gmail.com?subject=Hello%20from%20GitHub">Email me</a> · 🌐 <a href="https://dineshgovindaraj.vercel.app/">Portfolio</a> · 🔗 <a href="https://www.linkedin.com/in/dinesh-g-388174259">LinkedIn</a> <br>
   · 📄 Check out my <a href="https://docs.google.com/gview?url=https://raw.githubusercontent.com/Kkssys/Kkssys/main/assets/resume.pdf" target="_blank">Resume</a></h3>
 
 <!-- Horizontal line separator -->
