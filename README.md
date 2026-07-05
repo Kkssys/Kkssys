@@ -34,7 +34,8 @@ Tools :<br>
 </p>
 
 <!-- Details section (Like the "📍 Location | ✉️ Email | 🌐 Website" part in the screenshot) -->
-<h3 align="center">📍 India · ✉️ dineshgovindaraj212@gmail.com · 🌐 <a href="https://your-portfolio-link.com">Portfolio</a> · 🔗 <a href="https://www.linkedin.com/in/dinesh-g-388174259">LinkedIn</a> 📄 Check out my <a href="https://docs.google.com/gview?url=https://raw.githubusercontent.com/Kkssys/Kkssys/main/assets/resume.pdf" target="_blank">Resume</a></h3>
+<h3 align="center">📍 India · ✉️ dineshgovindaraj212@gmail.com · 🌐 <a href="https://your-portfolio-link.com">Portfolio</a> · 🔗 <a href="https://www.linkedin.com/in/dinesh-g-388174259">LinkedIn</a> <br>
+  · 📄 Check out my <a href="https://docs.google.com/gview?url=https://raw.githubusercontent.com/Kkssys/Kkssys/main/assets/resume.pdf" target="_blank">Resume</a></h3>
 
 <!-- Horizontal line separator -->
 <hr/>
@@ -46,9 +47,6 @@ Tools :<br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kkssys&theme=radical" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kkssys&layout=compact&theme=radical" width="50%" />
-</p>
 
 
 <hr/>
