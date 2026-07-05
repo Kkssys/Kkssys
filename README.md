@@ -41,7 +41,7 @@
 <!-- Social Badges (Portfolio, LinkedIn, Email, Resume) - ALL same width/height -->
 <h2 align="center">🔗 Socials</h2>
 <p align="center">
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://dineshgovindaraj.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-943be7?style=for-the-badge&logo=link&logoColor=white" width="140" height="35" />
   </a>
   <a href="https://www.linkedin.com/in/dinesh-g-388174259" target="_blank">
