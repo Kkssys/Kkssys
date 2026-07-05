@@ -11,14 +11,17 @@
 
 <hr/>
 
-💻 Tech Stack:<br>
-Frontend : <br>
+<h2 align="center">🧑‍💻 Techs :</h2>
+<h3>Frontend : <br></h3>
 [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,bootstrap)](https://skillicons.dev)<br>
-Backend & Database: <br>
+<h3>Backend & Database: <br></h3>
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb)](https://skillicons.dev)<br>
-Tools :<br>
+<h3>Tools :<br></h3>
 [![My Skills](https://skillicons.dev/icons?i=git,github,netlify,vercel,vscode,vite,)](https://skillicons.dev)<br>
+</hr>
+
 <!-- Social Badges (Portfolio, LinkedIn, Email, Resume) - ALL same width/height -->
+<h2 align="center">🔗 Socials</h2>
 <p align="center">
   <a href="https://your-portfolio-link.com" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-943be7?style=for-the-badge&logo=link&logoColor=white" width="140" height="35" />
@@ -56,7 +59,7 @@ Tools :<br>
        • Tea + coding = perfect combo ☕ .<br>
        • Dark mode always looks better to me 😄 .<br>
        • I fix one bug just to create another 😅 .<br>
-<hr/>
+
 <!-- Footer Banner (waving footer to match the top) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
