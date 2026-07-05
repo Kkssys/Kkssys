@@ -7,6 +7,10 @@
 🔭 I’m currently working on frontend web projects .<br>
 📫 How to reach me: <br>
                     • [dineshgovindaraj.vercel.app](https://dineshgovindaraj.vercel.app/)<br>
+<br>
+📄 Check out my <a href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/PATH_TO_YOUR_RESUME/resume.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/-Resume-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" width="140" height="35" /> Resume
+</a>
 
 ___________________________________________________________________________________________________________________________________________________________________
 💻 Tech Stack:<br>
