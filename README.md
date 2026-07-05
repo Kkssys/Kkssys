@@ -9,7 +9,6 @@
 <br>
 </p>
 
-<hr/>
 
 <!-- DIVIDER -->
 <p align="center">
@@ -35,7 +34,9 @@
   </p>
 </p>
 
-<hr/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
+</p>
 
 <!-- Social Badges (Portfolio, LinkedIn, Email, Resume) - ALL same width/height -->
 <h2 align="center">🔗 Socials</h2>
@@ -59,7 +60,9 @@
   · 📄 Check out my <a href="https://docs.google.com/gview?url=https://raw.githubusercontent.com/Kkssys/Kkssys/main/assets/resume.pdf" target="_blank">Resume</a></h3>
 
 <!-- Horizontal line separator -->
-<hr/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
+</p>
 
 <!-- GitHub Stats Cards (the "Design / Stats" part in the screenshot) -->
 <h2 align="center">📊 GitHub Stats</h2>
@@ -68,8 +71,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kkssys&theme=radical" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
+</p>
 
-<hr/>
 ⚡ Fun fact: <br>
        • Started coding for fun, now it is my stressbuster 🔍 .<br>
        • I enjoy turning ideas into interactive websites . <br>
