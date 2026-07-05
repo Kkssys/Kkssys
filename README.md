@@ -7,11 +7,7 @@
 🔭 I’m currently working on frontend web projects .<br>
 📫 How to reach me: <br>
                     • [dineshgovindaraj.vercel.app](https://dineshgovindaraj.vercel.app/)<br>
-____________________________________________________________________________________________________________________________________________________________________
-## 🛠️ Tools & Technologies <br>
- • Frontend - HTML5 , CSS3 , JavaScript , React.js .<br>
- • Database - MySQL , MongoDB .<br>
- • Tools    - VS code , Github , Git , Vercel , Netlify , Render etc ... .<br>
+
 ___________________________________________________________________________________________________________________________________________________________________
 💻 Tech Stack:<br>
 Frontend : <br>
