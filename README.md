@@ -8,7 +8,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Hi+%2C+I+am+Dinesh+G;Web+Developer" alt="Typing SVG" /></a>
 <br>
 </p>
-<hr/>
+
+<p align="center">
+  <svg width="80%" height="20" xmlns="http://www.w3.org/2000/svg">
+    <line x1="0" y1="10" x2="100%" y2="10" stroke="#943be7" stroke-width="3" stroke-dasharray="10, 10"/>
+  </svg>
+</p>
 
 💻 Tech Stack:<br>
 Frontend : <br>
