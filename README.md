@@ -48,7 +48,6 @@ Tools :<br>
 </p>
 
 
-
 <hr/>
 ⚡ Fun fact: <br>
        • Started coding for fun, now it is my stressbuster 🔍 .<br>
