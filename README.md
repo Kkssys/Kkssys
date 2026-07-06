@@ -10,7 +10,11 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kkssys/Kkssys/main/assets/your-animated-character.gif" width="200" />
+  <svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="100" cy="100" r="80" fill="#ffcc00">
+      <animate attributeName="r" values="80;85;80" dur="2s" repeatCount="indefinite" />
+    </circle>
+  </svg>
 </p>
 
 <!-- DIVIDER -->
