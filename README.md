@@ -9,7 +9,9 @@
 <br>
 </p>
 
-<img src="https://raw.githubusercontent.com/Kkssys/Kkssys/main/assets/giff.gif" width="400" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kkssys/Kkssys/main/assets/giff.gif" width="400" />
+</p>
 
 
 <!-- DIVIDER -->
