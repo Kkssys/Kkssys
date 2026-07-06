@@ -9,6 +9,9 @@
 <br>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kkssys/Kkssys/main/assets/your-animated-character.gif" width="200" />
+</p>
 
 <!-- DIVIDER -->
 <p align="center">
