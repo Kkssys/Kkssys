@@ -9,13 +9,7 @@
 <br>
 </p>
 
-<p align="center">
-  <svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
-    <circle cx="100" cy="100" r="80" fill="#ffcc00">
-      <animate attributeName="r" values="80;85;80" dur="2s" repeatCount="indefinite" />
-    </circle>
-  </svg>
-</p>
+<img src="https://raw.githubusercontent.com/Kkssys/Kkssys/main/assets/giff.gif" width="200" />
 
 <!-- DIVIDER -->
 <p align="center">
