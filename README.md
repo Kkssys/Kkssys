@@ -81,7 +81,7 @@
 <h2 align="center">⚡ Fun facts:</h2>
 <p align="center">
     • Started coding for fun, now it is my stressbuster 🔍 .<br>
-    • I enjoy turning ideas into interactive websites . <br>
+    • I enjoy turning ideas into interactive websites 🧑‍💻. <br>
     • Tea + coding = perfect combo ☕ .<br>
     • Dark mode always looks better to me 😄 .<br>
     • I fix one bug just to create another 😅 .<br>
