@@ -31,7 +31,7 @@
     <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
   </p>
 
-  <h3 align="center">🛠️ Tools</h3>
+  <h3 align="center">🛠️ Tools :</h3>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=git,github,netlify,vercel,vscode,vite" />
   </p>
