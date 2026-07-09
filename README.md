@@ -42,7 +42,7 @@
 </p>
 
 <!-- Social Badges (Portfolio, LinkedIn, Email, Resume) - ALL same width/height -->
-<h2 align="center">🔗 Socials</h2>
+<h2 align="center">🔗 Socials :</h2>
 <p align="center">
   <a href="https://dineshgovindaraj.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-943be7?style=for-the-badge&logo=link&logoColor=white" width="140" height="35" />
@@ -68,7 +68,7 @@
 </p>
 
 <!-- GitHub Stats Cards (the "Design / Stats" part in the screenshot) -->
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats :</h2>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kkssys&theme=radical" width="48%" />
@@ -78,7 +78,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-<h2 align="center">⚡ Fun facts:</h2>
+<h2 align="center">⚡ Fun facts :</h2>
 <p align="center">
     • Started coding for fun, now it is my stressbuster 🔍 .<br>
     • I enjoy turning ideas into interactive websites 🧑‍💻. <br>
