@@ -26,7 +26,7 @@
     <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" />
   </p>
 
-  <h3 align="center">⚙️ Backend & Database</h3>
+  <h3 align="center">⚙️ Backend & Database :</h3>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
   </p>
