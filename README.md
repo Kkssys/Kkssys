@@ -21,7 +21,7 @@
 <h2 align="center">🧑‍💻 Tech Stack</h2>
 
 <p align="center">
-  <h3 align="center">🖥️ Frontend</h3>
+  <h3 align="center">🖥️ Frontend :</h3>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" />
   </p>
